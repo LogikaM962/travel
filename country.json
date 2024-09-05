@@ -1,0 +1,42 @@
+[
+    {
+        "id":0,
+        "name": "All",
+        "checked":"checked"
+    },
+    {
+        "id":1,
+        "name": "USA",
+        "checked":""
+    },
+    {
+        "id":2,
+        "name": "France",
+        "checked":""
+    },
+    {
+        "id":3,
+        "name": "Ukrain",
+        "checked":""
+    },
+    {
+        "id":4,
+        "name": "Poland",
+        "checked":""
+    },
+    {
+        "id":5,
+        "name": "Italy",
+        "checked":""
+    },
+    {
+        "id":6,
+        "name": "German",
+        "checked":""
+    },
+    {
+        "id":7,
+        "name": "UK",
+        "checked":""
+    }
+]

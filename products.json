@@ -1,0 +1,92 @@
+[
+    {
+        "id":0,
+        "name":"USA, New York",
+        "price":1000,
+        "img":"../src/USA.jpg",
+        "description":"New York, often called New York City or NYC, is the most populous city in the United States. Located at the southern tip of New York State on one of the world's largest natural harbors, the city comprises five boroughs, each coextensive with a respective county. New York is a global center of finance and commerce, culture, technology, entertainment and media, academics and scientific output, the arts and fashion, and, as home to the headquarters of the United Nations, international diplomacy.",
+        "country":"USA",
+        "type":"Popular"
+    },
+    {
+        "id":1,
+        "name":"France, Paris",
+        "price":1000,
+        "img":"src/Paris.jpg",
+        "description":"Paris is the capital and most populous city of France. Situated on the Seine River, in the north of the country, it is in the centre of the Île-de-France region, also known as the région parisienne, 'Paris Region'.",
+        "country":"France",
+        "type":"Popular"
+    },
+    {
+        "id":2,
+        "name":"Ukrain, Kiev",
+        "price":100,
+        "img":"src/Kiev.webp",
+        "description":"Kyiv is an important industrial, scientific, educational, and cultural center in Eastern Europe. It is home to many high-tech industries, higher education institutions, and historical landmarks. The city has an extensive system of public transport and infrastructure, including the Kyiv Metro.",
+        "country":"Ukrain",
+        "type":"Eco"
+    },
+    {
+        "id":3,
+        "name":"Ukrain, Lviv",
+        "price":100,
+        "img":"src/Lviv.jpg",
+        "description":"Lviv is the largest city in western Ukraine, as well as the sixth-largest city in Ukraine, with a population of 717,500",
+        "country":"Ukrain",
+        "type":"Eco"
+    },
+    {
+        "id":4,
+        "name":"Poland, Krakow",
+        "price":250,
+        "img":"src/Krakow.jpg",
+        "description":"Situated on the Vistula River in the Lesser Poland region, the city dates back to the 7th century. Kraków has traditionally been one of the leading centres of Polish academic, cultural, and artistic life and is one of Poland's most important economic hubs.",
+        "country":"Poland",
+        "type":"Eco"
+    },
+    {
+        "id":5,
+        "name":"Poland, Warsaw",
+        "price":250,
+        "img":"src/Warsaw.jpg",
+        "description":"Warsaw is near the middle of Poland on both sides of the Vistula river, and about 350 km (225 miles) from the Baltic Sea. It is about 100 m (325 ft) above sea level. Warsaw has a humid continental climate (Dfb in the Koeppen climate classification).",
+        "country":"Poland",
+        "type":"Eco"
+    },
+    {
+        "id":6,
+        "name":"German, Berlin",
+        "price":1000,
+        "img":"src/Berlin.jpg",
+        "description":"Berlin, capital and chief urban centre of Germany. The city lies at the heart of the North German Plain, athwart an east-west commercial and geographic axis that helped make it the capital of the kingdom of Prussia and then, from 1871, of a unified Germany.",
+        "country":"German",
+        "type":"None"
+    },
+    {
+        "id":7,
+        "name":"United Kindom, London",
+        "price":1000,
+        "img":"src/London.jpeg",
+        "description":"It is the most populous city in the United Kingdom, with a metropolitan area of over 13 million inhabitants. Standing on the River Thames, London has been a major settlement for two millennia, its history going back to its founding by the Romans, who named it Londinium.",
+        "country":"UK",
+        "type":"Popular"
+    },
+    {
+        "id":8,
+        "name":"Italy, Rome",
+        "price":1000,
+        "img":"src/Rome.webp",
+        "description":"Rome is the capital of Italy and also of the Province of Rome and of the region of Lazio. With 2.9 million residents in 1,285.3 km2, it is also the country's largest and most populated comune and fourth-most populous city in the European Union by population within city limits.",
+        "country":"Italy",
+        "type":"None"
+    },
+    {
+        "id":9,
+        "name":"USA, Miami",
+        "price":2500,
+        "img":"src/Miami.jpg",
+        "description":"Miami, city, seat (1844) of Miami-Dade county, southeastern Florida, U.S. A major transportation and business hub, Miami is a leading resort and Atlantic Ocean port situated on Biscayne Bay at the mouth of the Miami River. The Everglades area is a short distance to the west.",
+        "country":"USA",
+        "type":"Popular"
+    }
+]

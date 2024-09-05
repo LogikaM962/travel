@@ -1,0 +1,20 @@
+[
+    {
+        "id":3,
+        "name":"Ukrain, Lviv",
+        "price":100,
+        "img":"src/Lviv.jpg",
+        "description":"Lviv is the largest city in western Ukraine, as well as the sixth-largest city in Ukraine, with a population of 717,500",
+        "country":"Ukrain",
+        "type":"Eco"
+    },
+    {
+        "id":4,
+        "name":"Poland, Krakow",
+        "price":250,
+        "img":"src/Krakow.jpg",
+        "description":"Situated on the Vistula River in the Lesser Poland region, the city dates back to the 7th century. Kraków has traditionally been one of the leading centres of Polish academic, cultural, and artistic life and is one of Poland's most important economic hubs.",
+        "country":"Poland",
+        "type":"Eco"
+    }
+]

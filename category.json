@@ -1,0 +1,18 @@
+[
+    {
+        "id":0,
+        "name": "All"
+    },
+    {
+        "id":1,
+        "name": "Eco"
+    },
+    {
+        "id":2,
+        "name": "Popular"
+    },
+    {
+        "id":3,
+        "name": "None"
+    }
+]

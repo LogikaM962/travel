@@ -1,0 +1,20 @@
+[
+    {
+        "id":0,
+        "name":"USA, New York",
+        "price":1000,
+        "img":"../src/USA.jpg",
+        "description":"New York, often called New York City or NYC, is the most populous city in the United States. Located at the southern tip of New York State on one of the world's largest natural harbors, the city comprises five boroughs, each coextensive with a respective county. New York is a global center of finance and commerce, culture, technology, entertainment and media, academics and scientific output, the arts and fashion, and, as home to the headquarters of the United Nations, international diplomacy.",
+        "country":"USA",
+        "type":"Popular"
+    },
+    {
+        "id":1,
+        "name":"France, Paris",
+        "price":1000,
+        "img":"src/Paris.jpg",
+        "description":"Paris is the capital and most populous city of France. Situated on the Seine River, in the north of the country, it is in the centre of the Île-de-France region, also known as the région parisienne, 'Paris Region'.",
+        "country":"France",
+        "type":"Popular"
+    }
+]
